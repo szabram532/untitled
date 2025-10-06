@@ -1,5 +1,5 @@
 public class Main {
     void main() {
-        Test.test();
+        Test.pracaDomowaWyk2();
     }
 }
