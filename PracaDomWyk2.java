@@ -9,7 +9,7 @@ public class PracaDomWyk2 {
         int b = sc.nextInt();
         pracaDomowaWyk2pomocnicza(a, b);
     }
-//aaa
+
     static void pracaDomowaWyk2pomocnicza(int a, int b) {
         int c = a ^ b;
         int d = a & b;
