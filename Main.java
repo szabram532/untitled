@@ -1,5 +1,5 @@
 public class Main {
     void main() {
-        PracaDomWyk2.pracaDomowaWyk2();
+        IO.println("Ciao");
     }
 }
