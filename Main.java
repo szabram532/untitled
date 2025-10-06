@@ -2,6 +2,6 @@ import cwiczenia.Test1;
 
 public class Main {
     void main() {
-        Test1.test1();
+        Test1.aas();
     }
 }
