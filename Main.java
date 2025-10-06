@@ -1,5 +1,7 @@
+import cwiczenia.Test1;
+
 public class Main {
     void main() {
-        IO.println("hh");;
+        Test1.test1();
     }
 }
