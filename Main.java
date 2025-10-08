@@ -2,6 +2,6 @@ import cwiczenia.Test1;
 
 public class Main {
     void main() {
-        Test1.aas();
+        IO.println("8.10.2025");
     }
 }
